@@ -1,0 +1,497 @@
+location_id,clinic_name,room_number
+0,Tucker-Chang,220
+1,Sherman Group,281
+2,Sherman Group,239
+3,Bradford PLC,571
+4,Bradford PLC,146
+5,Bradford PLC,818
+6,Hoover-Thornton,744
+7,Hoover-Thornton,539
+8,Bradford PLC,964
+9,Sherman Group,394
+10,Tucker-Chang,423
+11,Hoover-Thornton,379
+12,Bradford PLC,170
+13,Hoover-Thornton,847
+14,Bradford PLC,301
+15,Tucker-Chang,346
+16,Sherman Group,908
+17,Bradford PLC,683
+18,Tucker-Chang,936
+19,Bradford PLC,496
+20,Tucker-Chang,797
+21,Bradford PLC,510
+22,Bradford PLC,121
+23,Bradford PLC,710
+24,Hoover-Thornton,710
+25,Bradford PLC,158
+26,Bradford PLC,104
+27,Hoover-Thornton,523
+28,Tucker-Chang,534
+29,Sherman Group,247
+30,Hoover-Thornton,846
+31,Sherman Group,913
+32,Hoover-Thornton,998
+33,Tucker-Chang,137
+34,Tucker-Chang,504
+35,Sherman Group,904
+36,Hoover-Thornton,534
+37,Tucker-Chang,265
+38,Sherman Group,925
+39,Hoover-Thornton,531
+40,Tucker-Chang,683
+41,Hoover-Thornton,637
+42,Sherman Group,781
+43,Hoover-Thornton,729
+44,Sherman Group,663
+45,Tucker-Chang,949
+46,Tucker-Chang,666
+47,Bradford PLC,382
+48,Sherman Group,857
+49,Tucker-Chang,404
+50,Hoover-Thornton,867
+51,Tucker-Chang,516
+52,Bradford PLC,377
+53,Hoover-Thornton,798
+54,Hoover-Thornton,125
+55,Tucker-Chang,837
+56,Sherman Group,330
+57,Bradford PLC,448
+58,Hoover-Thornton,370
+59,Hoover-Thornton,592
+60,Sherman Group,418
+61,Hoover-Thornton,163
+62,Bradford PLC,698
+63,Tucker-Chang,785
+64,Bradford PLC,523
+65,Hoover-Thornton,205
+66,Hoover-Thornton,399
+67,Bradford PLC,220
+68,Tucker-Chang,261
+69,Bradford PLC,982
+70,Sherman Group,424
+71,Bradford PLC,603
+72,Sherman Group,879
+73,Hoover-Thornton,664
+74,Tucker-Chang,692
+75,Tucker-Chang,685
+76,Hoover-Thornton,511
+77,Tucker-Chang,385
+78,Tucker-Chang,889
+79,Hoover-Thornton,925
+80,Bradford PLC,250
+81,Tucker-Chang,703
+82,Tucker-Chang,962
+83,Tucker-Chang,557
+84,Sherman Group,958
+85,Bradford PLC,347
+86,Hoover-Thornton,282
+87,Hoover-Thornton,122
+88,Hoover-Thornton,352
+89,Sherman Group,614
+90,Bradford PLC,439
+91,Sherman Group,168
+92,Tucker-Chang,475
+93,Sherman Group,653
+94,Tucker-Chang,460
+95,Tucker-Chang,232
+96,Bradford PLC,806
+97,Tucker-Chang,676
+98,Hoover-Thornton,237
+99,Bradford PLC,765
+100,Sherman Group,472
+101,Hoover-Thornton,333
+102,Hoover-Thornton,349
+103,Bradford PLC,346
+104,Hoover-Thornton,284
+105,Sherman Group,733
+106,Bradford PLC,289
+107,Hoover-Thornton,529
+108,Bradford PLC,426
+109,Hoover-Thornton,957
+110,Hoover-Thornton,403
+111,Hoover-Thornton,443
+112,Tucker-Chang,393
+113,Bradford PLC,449
+114,Bradford PLC,172
+115,Hoover-Thornton,137
+116,Hoover-Thornton,490
+117,Sherman Group,248
+118,Hoover-Thornton,855
+119,Hoover-Thornton,226
+120,Tucker-Chang,490
+121,Tucker-Chang,582
+122,Hoover-Thornton,728
+123,Bradford PLC,485
+124,Sherman Group,401
+125,Sherman Group,358
+126,Hoover-Thornton,828
+127,Tucker-Chang,213
+128,Sherman Group,830
+129,Bradford PLC,721
+130,Bradford PLC,435
+131,Hoover-Thornton,779
+132,Sherman Group,471
+133,Sherman Group,129
+134,Sherman Group,847
+135,Tucker-Chang,908
+136,Bradford PLC,389
+137,Hoover-Thornton,830
+138,Bradford PLC,761
+139,Tucker-Chang,468
+140,Sherman Group,776
+141,Hoover-Thornton,774
+142,Hoover-Thornton,419
+143,Sherman Group,191
+144,Bradford PLC,657
+145,Bradford PLC,828
+146,Hoover-Thornton,575
+147,Tucker-Chang,340
+148,Tucker-Chang,386
+149,Sherman Group,801
+150,Tucker-Chang,896
+151,Sherman Group,421
+152,Tucker-Chang,310
+153,Tucker-Chang,161
+154,Tucker-Chang,206
+155,Sherman Group,374
+156,Bradford PLC,950
+157,Tucker-Chang,933
+158,Sherman Group,816
+159,Tucker-Chang,190
+160,Sherman Group,116
+161,Tucker-Chang,792
+162,Sherman Group,596
+163,Tucker-Chang,992
+164,Bradford PLC,670
+165,Sherman Group,408
+166,Hoover-Thornton,536
+167,Sherman Group,102
+168,Bradford PLC,108
+169,Sherman Group,515
+170,Bradford PLC,594
+171,Bradford PLC,274
+172,Sherman Group,886
+173,Sherman Group,715
+174,Bradford PLC,635
+175,Tucker-Chang,833
+176,Bradford PLC,914
+177,Bradford PLC,350
+178,Tucker-Chang,108
+179,Bradford PLC,608
+180,Tucker-Chang,410
+181,Tucker-Chang,166
+182,Bradford PLC,759
+183,Tucker-Chang,801
+184,Bradford PLC,953
+185,Tucker-Chang,320
+186,Sherman Group,821
+187,Hoover-Thornton,854
+188,Hoover-Thornton,790
+189,Hoover-Thornton,942
+190,Hoover-Thornton,146
+191,Sherman Group,727
+192,Sherman Group,638
+193,Bradford PLC,522
+194,Hoover-Thornton,393
+195,Bradford PLC,311
+196,Hoover-Thornton,394
+197,Sherman Group,186
+198,Hoover-Thornton,447
+199,Bradford PLC,584
+200,Bradford PLC,190
+201,Sherman Group,348
+202,Hoover-Thornton,310
+203,Tucker-Chang,647
+204,Tucker-Chang,616
+205,Tucker-Chang,194
+206,Bradford PLC,450
+207,Hoover-Thornton,298
+208,Bradford PLC,825
+209,Bradford PLC,762
+210,Bradford PLC,326
+211,Sherman Group,494
+212,Tucker-Chang,898
+213,Hoover-Thornton,875
+214,Bradford PLC,466
+215,Bradford PLC,723
+216,Tucker-Chang,715
+217,Hoover-Thornton,126
+218,Hoover-Thornton,646
+219,Tucker-Chang,905
+220,Sherman Group,451
+221,Hoover-Thornton,891
+222,Bradford PLC,398
+223,Tucker-Chang,145
+224,Hoover-Thornton,737
+225,Sherman Group,110
+226,Sherman Group,747
+227,Tucker-Chang,771
+228,Hoover-Thornton,994
+229,Bradford PLC,606
+230,Bradford PLC,732
+231,Tucker-Chang,817
+232,Tucker-Chang,342
+233,Hoover-Thornton,108
+234,Sherman Group,659
+235,Tucker-Chang,731
+236,Tucker-Chang,256
+237,Tucker-Chang,152
+238,Bradford PLC,325
+239,Sherman Group,742
+240,Hoover-Thornton,241
+241,Tucker-Chang,680
+242,Hoover-Thornton,919
+243,Bradford PLC,930
+244,Tucker-Chang,290
+245,Tucker-Chang,948
+246,Sherman Group,509
+247,Tucker-Chang,322
+248,Bradford PLC,320
+249,Tucker-Chang,434
+250,Bradford PLC,735
+251,Hoover-Thornton,297
+252,Sherman Group,943
+253,Hoover-Thornton,278
+254,Bradford PLC,416
+255,Sherman Group,489
+256,Hoover-Thornton,345
+257,Bradford PLC,586
+258,Hoover-Thornton,480
+259,Hoover-Thornton,451
+260,Sherman Group,603
+261,Bradford PLC,524
+262,Tucker-Chang,193
+263,Tucker-Chang,564
+264,Bradford PLC,526
+265,Tucker-Chang,420
+266,Bradford PLC,275
+267,Tucker-Chang,174
+268,Tucker-Chang,549
+269,Sherman Group,553
+270,Bradford PLC,878
+271,Tucker-Chang,581
+272,Hoover-Thornton,927
+273,Tucker-Chang,148
+274,Tucker-Chang,485
+275,Hoover-Thornton,497
+276,Sherman Group,641
+277,Hoover-Thornton,955
+278,Hoover-Thornton,111
+279,Hoover-Thornton,715
+280,Tucker-Chang,747
+281,Sherman Group,760
+282,Sherman Group,686
+283,Bradford PLC,920
+284,Hoover-Thornton,127
+285,Hoover-Thornton,371
+286,Hoover-Thornton,702
+287,Sherman Group,155
+288,Tucker-Chang,437
+289,Hoover-Thornton,856
+290,Sherman Group,718
+291,Bradford PLC,908
+292,Tucker-Chang,510
+293,Hoover-Thornton,992
+294,Sherman Group,786
+295,Sherman Group,950
+296,Hoover-Thornton,118
+297,Sherman Group,305
+298,Sherman Group,951
+299,Bradford PLC,784
+300,Sherman Group,692
+301,Hoover-Thornton,771
+302,Tucker-Chang,254
+303,Tucker-Chang,416
+304,Hoover-Thornton,227
+305,Tucker-Chang,483
+306,Bradford PLC,443
+307,Tucker-Chang,333
+308,Hoover-Thornton,262
+309,Tucker-Chang,179
+310,Sherman Group,187
+311,Hoover-Thornton,628
+312,Sherman Group,491
+313,Sherman Group,755
+314,Sherman Group,495
+315,Sherman Group,668
+316,Sherman Group,873
+317,Tucker-Chang,327
+318,Sherman Group,856
+319,Sherman Group,620
+320,Hoover-Thornton,755
+321,Sherman Group,419
+322,Hoover-Thornton,920
+323,Sherman Group,311
+324,Hoover-Thornton,974
+325,Hoover-Thornton,733
+326,Bradford PLC,693
+327,Hoover-Thornton,155
+328,Tucker-Chang,182
+329,Tucker-Chang,959
+330,Tucker-Chang,264
+331,Tucker-Chang,649
+332,Tucker-Chang,770
+333,Sherman Group,993
+334,Bradford PLC,343
+335,Hoover-Thornton,943
+336,Sherman Group,894
+337,Tucker-Chang,329
+338,Bradford PLC,965
+339,Hoover-Thornton,156
+340,Tucker-Chang,746
+341,Hoover-Thornton,153
+342,Sherman Group,664
+343,Bradford PLC,574
+344,Sherman Group,462
+345,Hoover-Thornton,795
+346,Tucker-Chang,744
+347,Hoover-Thornton,389
+348,Tucker-Chang,262
+349,Tucker-Chang,280
+350,Sherman Group,922
+351,Hoover-Thornton,868
+352,Tucker-Chang,202
+353,Tucker-Chang,899
+354,Hoover-Thornton,532
+355,Sherman Group,911
+356,Bradford PLC,307
+357,Tucker-Chang,759
+358,Bradford PLC,387
+359,Bradford PLC,261
+360,Tucker-Chang,480
+361,Bradford PLC,348
+362,Sherman Group,602
+363,Hoover-Thornton,595
+364,Hoover-Thornton,290
+365,Bradford PLC,631
+366,Tucker-Chang,965
+367,Sherman Group,152
+368,Hoover-Thornton,555
+369,Tucker-Chang,821
+370,Tucker-Chang,795
+371,Bradford PLC,141
+372,Hoover-Thornton,121
+373,Tucker-Chang,403
+374,Bradford PLC,477
+375,Bradford PLC,512
+376,Hoover-Thornton,803
+377,Bradford PLC,587
+378,Bradford PLC,842
+379,Sherman Group,637
+380,Hoover-Thornton,256
+381,Sherman Group,331
+382,Sherman Group,250
+383,Sherman Group,520
+384,Bradford PLC,338
+385,Hoover-Thornton,996
+386,Hoover-Thornton,368
+387,Hoover-Thornton,341
+388,Bradford PLC,991
+389,Tucker-Chang,559
+390,Bradford PLC,258
+391,Sherman Group,484
+392,Tucker-Chang,812
+393,Hoover-Thornton,758
+394,Sherman Group,579
+395,Bradford PLC,544
+396,Hoover-Thornton,229
+397,Hoover-Thornton,605
+398,Bradford PLC,379
+399,Sherman Group,667
+400,Bradford PLC,846
+401,Sherman Group,606
+402,Hoover-Thornton,466
+403,Hoover-Thornton,281
+404,Hoover-Thornton,751
+405,Sherman Group,404
+406,Tucker-Chang,953
+407,Tucker-Chang,104
+408,Sherman Group,341
+409,Hoover-Thornton,706
+410,Tucker-Chang,764
+411,Sherman Group,123
+412,Sherman Group,503
+413,Hoover-Thornton,405
+414,Sherman Group,931
+415,Bradford PLC,302
+416,Bradford PLC,442
+417,Sherman Group,997
+418,Bradford PLC,633
+419,Sherman Group,980
+420,Tucker-Chang,901
+421,Bradford PLC,474
+422,Sherman Group,516
+423,Bradford PLC,150
+424,Tucker-Chang,902
+425,Hoover-Thornton,694
+426,Tucker-Chang,167
+427,Hoover-Thornton,949
+428,Sherman Group,680
+429,Tucker-Chang,674
+430,Bradford PLC,707
+431,Tucker-Chang,117
+432,Bradford PLC,712
+433,Bradford PLC,303
+434,Tucker-Chang,551
+435,Hoover-Thornton,468
+436,Bradford PLC,736
+437,Sherman Group,427
+438,Hoover-Thornton,313
+439,Hoover-Thornton,320
+440,Sherman Group,268
+441,Sherman Group,389
+442,Hoover-Thornton,769
+443,Bradford PLC,208
+444,Sherman Group,813
+445,Bradford PLC,719
+446,Sherman Group,406
+447,Bradford PLC,364
+448,Sherman Group,357
+449,Sherman Group,854
+450,Bradford PLC,543
+451,Bradford PLC,797
+452,Bradford PLC,463
+453,Tucker-Chang,402
+454,Sherman Group,577
+455,Bradford PLC,128
+456,Sherman Group,528
+457,Hoover-Thornton,222
+458,Tucker-Chang,258
+459,Tucker-Chang,119
+460,Sherman Group,413
+461,Sherman Group,779
+462,Hoover-Thornton,865
+463,Sherman Group,514
+464,Hoover-Thornton,742
+465,Bradford PLC,513
+466,Hoover-Thornton,644
+467,Sherman Group,699
+468,Hoover-Thornton,864
+469,Hoover-Thornton,761
+470,Hoover-Thornton,760
+471,Hoover-Thornton,459
+472,Sherman Group,283
+473,Bradford PLC,422
+474,Hoover-Thornton,635
+475,Tucker-Chang,140
+476,Hoover-Thornton,380
+477,Hoover-Thornton,254
+478,Tucker-Chang,935
+479,Sherman Group,329
+480,Bradford PLC,185
+481,Hoover-Thornton,816
+482,Tucker-Chang,863
+483,Sherman Group,790
+484,Hoover-Thornton,293
+485,Hoover-Thornton,766
+486,Tucker-Chang,203
+487,Tucker-Chang,317
+488,Sherman Group,124
+489,Sherman Group,700
+490,Sherman Group,979
+491,Sherman Group,778
+492,Tucker-Chang,284
+493,Bradford PLC,186
+494,Tucker-Chang,972
+495,Hoover-Thornton,199

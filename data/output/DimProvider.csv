@@ -1,0 +1,182 @@
+provider_id,doctor_name,doctor_title,doctor_department
+0,Anthony Williamson,DO,Broadcast engineer
+1,Adrienne Miller DVM,MD,"Surveyor, hydrographic"
+2,Gabriel Zamora,PA,Petroleum engineer
+3,Gregory Walker,PA,Petroleum engineer
+4,Adrienne Miller DVM,DO,"Surveyor, hydrographic"
+5,James Wall,DO,Petroleum engineer
+6,Gregory Walker,MD,Set designer
+7,Adrienne Miller DVM,PA,Ambulance person
+8,Tracy Rogers,PA,"Civil engineer, consulting"
+9,Anthony Williamson,NP,Broadcast engineer
+10,Anthony Williamson,NP,"Surveyor, hydrographic"
+11,James Wall,MD,"Surveyor, hydrographic"
+12,Tracy Rogers,NP,Ambulance person
+13,James Wall,PA,Ambulance person
+14,Tracy Taylor,PA,"Surveyor, hydrographic"
+15,Gregory Walker,MD,"Civil engineer, consulting"
+16,James Wall,DO,Ambulance person
+17,Anthony Williamson,DO,"Civil engineer, consulting"
+18,Anthony Williamson,PA,Ambulance person
+19,Adrienne Miller DVM,MD,Broadcast engineer
+20,Tracy Taylor,MD,Set designer
+21,James Wall,DO,Set designer
+22,Gabriel Zamora,PA,"Civil engineer, consulting"
+23,Gregory Walker,NP,Petroleum engineer
+24,Gregory Walker,DO,Set designer
+25,Adrienne Miller DVM,PA,"Civil engineer, consulting"
+26,Gabriel Zamora,MD,Set designer
+27,Gregory Walker,DO,"Civil engineer, consulting"
+28,Gregory Walker,NP,Broadcast engineer
+29,Gabriel Zamora,NP,Set designer
+30,Tracy Rogers,NP,Set designer
+31,Virginia Carr,MD,Broadcast engineer
+32,Gabriel Zamora,DO,Ambulance person
+33,Anthony Williamson,MD,Broadcast engineer
+34,Tracy Rogers,DO,"Surveyor, hydrographic"
+35,Adrienne Miller DVM,NP,Broadcast engineer
+36,Tracy Taylor,DO,"Civil engineer, consulting"
+37,Gregory Walker,NP,"Surveyor, hydrographic"
+38,Virginia Carr,PA,Set designer
+39,Adrienne Miller DVM,MD,Petroleum engineer
+40,Adrienne Miller DVM,DO,Ambulance person
+41,Virginia Carr,MD,Petroleum engineer
+42,Virginia Carr,PA,Ambulance person
+43,Tracy Rogers,MD,Broadcast engineer
+44,Anthony Williamson,MD,Set designer
+45,Virginia Carr,PA,Petroleum engineer
+46,Gabriel Zamora,DO,"Surveyor, hydrographic"
+47,Tracy Rogers,PA,Ambulance person
+48,Tracy Rogers,PA,Petroleum engineer
+49,Anthony Williamson,DO,Ambulance person
+50,James Wall,NP,Ambulance person
+51,Anthony Williamson,NP,"Civil engineer, consulting"
+52,Virginia Carr,PA,"Civil engineer, consulting"
+53,Tracy Rogers,MD,Ambulance person
+54,Gregory Walker,PA,"Civil engineer, consulting"
+55,Adrienne Miller DVM,DO,Broadcast engineer
+56,James Wall,NP,"Surveyor, hydrographic"
+57,Gabriel Zamora,PA,Set designer
+58,Virginia Carr,MD,Set designer
+59,James Wall,DO,"Civil engineer, consulting"
+60,Gabriel Zamora,NP,Ambulance person
+61,Adrienne Miller DVM,NP,"Civil engineer, consulting"
+62,Tracy Taylor,MD,Ambulance person
+63,Gabriel Zamora,MD,Broadcast engineer
+64,Gregory Walker,MD,Broadcast engineer
+65,Anthony Williamson,PA,Set designer
+66,Gabriel Zamora,PA,Broadcast engineer
+67,Gabriel Zamora,MD,Petroleum engineer
+68,Tracy Rogers,NP,"Civil engineer, consulting"
+69,Gabriel Zamora,DO,Petroleum engineer
+70,Anthony Williamson,NP,Petroleum engineer
+71,James Wall,DO,"Surveyor, hydrographic"
+72,Virginia Carr,PA,"Surveyor, hydrographic"
+73,Anthony Williamson,PA,"Surveyor, hydrographic"
+74,Virginia Carr,NP,"Surveyor, hydrographic"
+75,Gabriel Zamora,DO,"Civil engineer, consulting"
+76,Tracy Taylor,DO,Ambulance person
+77,Anthony Williamson,PA,Broadcast engineer
+78,Adrienne Miller DVM,MD,Set designer
+79,James Wall,MD,Ambulance person
+80,James Wall,DO,Broadcast engineer
+81,Anthony Williamson,DO,Set designer
+82,James Wall,MD,Broadcast engineer
+83,Gabriel Zamora,MD,Ambulance person
+84,Gregory Walker,PA,Broadcast engineer
+85,Adrienne Miller DVM,MD,"Civil engineer, consulting"
+86,Tracy Rogers,PA,Broadcast engineer
+87,Tracy Rogers,PA,Set designer
+88,Tracy Rogers,MD,Petroleum engineer
+89,Tracy Rogers,DO,Broadcast engineer
+90,Gregory Walker,NP,Ambulance person
+91,Gregory Walker,MD,Ambulance person
+92,James Wall,NP,"Civil engineer, consulting"
+93,Tracy Taylor,PA,Broadcast engineer
+94,Virginia Carr,DO,Ambulance person
+95,Tracy Rogers,DO,Ambulance person
+96,James Wall,NP,Broadcast engineer
+97,Tracy Taylor,MD,"Civil engineer, consulting"
+98,Anthony Williamson,MD,Ambulance person
+99,Tracy Taylor,MD,Broadcast engineer
+100,Tracy Rogers,DO,"Civil engineer, consulting"
+101,Gabriel Zamora,PA,Ambulance person
+102,James Wall,MD,"Civil engineer, consulting"
+103,Adrienne Miller DVM,PA,Petroleum engineer
+104,James Wall,PA,Petroleum engineer
+105,Tracy Taylor,PA,"Civil engineer, consulting"
+106,Tracy Taylor,NP,Petroleum engineer
+107,Gregory Walker,PA,Ambulance person
+108,Tracy Rogers,DO,Petroleum engineer
+109,Gabriel Zamora,PA,"Surveyor, hydrographic"
+110,Anthony Williamson,PA,"Civil engineer, consulting"
+111,James Wall,NP,Petroleum engineer
+112,Tracy Taylor,DO,Set designer
+113,Adrienne Miller DVM,PA,"Surveyor, hydrographic"
+114,Gabriel Zamora,MD,"Civil engineer, consulting"
+115,Virginia Carr,DO,"Civil engineer, consulting"
+116,Gregory Walker,MD,"Surveyor, hydrographic"
+117,Tracy Taylor,PA,Petroleum engineer
+118,Tracy Taylor,PA,Ambulance person
+119,Adrienne Miller DVM,DO,Petroleum engineer
+120,Gabriel Zamora,DO,Broadcast engineer
+121,Gabriel Zamora,NP,"Civil engineer, consulting"
+122,James Wall,PA,Set designer
+123,Anthony Williamson,DO,Petroleum engineer
+124,Tracy Rogers,PA,"Surveyor, hydrographic"
+125,James Wall,PA,"Civil engineer, consulting"
+126,Adrienne Miller DVM,MD,Ambulance person
+127,Tracy Taylor,DO,Broadcast engineer
+128,Gregory Walker,NP,"Civil engineer, consulting"
+129,James Wall,MD,Set designer
+130,Anthony Williamson,NP,Set designer
+131,Tracy Rogers,MD,"Civil engineer, consulting"
+132,Gregory Walker,DO,Ambulance person
+133,Tracy Taylor,NP,Set designer
+134,Anthony Williamson,MD,"Surveyor, hydrographic"
+135,Anthony Williamson,MD,Petroleum engineer
+136,James Wall,PA,Broadcast engineer
+137,Gabriel Zamora,NP,"Surveyor, hydrographic"
+138,Tracy Rogers,NP,"Surveyor, hydrographic"
+139,Adrienne Miller DVM,NP,Set designer
+140,Virginia Carr,NP,"Civil engineer, consulting"
+141,Virginia Carr,DO,Broadcast engineer
+142,Adrienne Miller DVM,NP,Ambulance person
+143,Virginia Carr,DO,"Surveyor, hydrographic"
+144,Gabriel Zamora,NP,Broadcast engineer
+145,Tracy Rogers,MD,"Surveyor, hydrographic"
+146,Gregory Walker,PA,Set designer
+147,Tracy Taylor,MD,Petroleum engineer
+148,Anthony Williamson,DO,"Surveyor, hydrographic"
+149,Gregory Walker,DO,"Surveyor, hydrographic"
+150,Anthony Williamson,NP,Ambulance person
+151,Gabriel Zamora,NP,Petroleum engineer
+152,Gregory Walker,MD,Petroleum engineer
+153,Tracy Taylor,MD,"Surveyor, hydrographic"
+154,Gabriel Zamora,DO,Set designer
+155,Tracy Rogers,DO,Set designer
+156,Virginia Carr,MD,"Civil engineer, consulting"
+157,Tracy Taylor,NP,Broadcast engineer
+158,Tracy Taylor,DO,Petroleum engineer
+159,Adrienne Miller DVM,DO,"Civil engineer, consulting"
+160,Gregory Walker,DO,Petroleum engineer
+161,Anthony Williamson,MD,"Civil engineer, consulting"
+162,Virginia Carr,MD,Ambulance person
+163,James Wall,NP,Set designer
+164,Tracy Taylor,NP,Ambulance person
+165,Virginia Carr,NP,Broadcast engineer
+166,Adrienne Miller DVM,NP,"Surveyor, hydrographic"
+167,Gregory Walker,DO,Broadcast engineer
+168,Virginia Carr,NP,Petroleum engineer
+169,Tracy Taylor,DO,"Surveyor, hydrographic"
+170,James Wall,PA,"Surveyor, hydrographic"
+171,Anthony Williamson,PA,Petroleum engineer
+172,Virginia Carr,DO,Set designer
+173,Gregory Walker,PA,"Surveyor, hydrographic"
+174,Tracy Rogers,MD,Set designer
+175,Tracy Taylor,PA,Set designer
+176,Adrienne Miller DVM,PA,Broadcast engineer
+177,Adrienne Miller DVM,DO,Set designer
+178,Virginia Carr,PA,Broadcast engineer
+179,Virginia Carr,NP,Ambulance person
+180,Virginia Carr,MD,"Surveyor, hydrographic"

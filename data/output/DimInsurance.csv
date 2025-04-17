@@ -1,0 +1,531 @@
+insurance_id,patient_id,insurance_payer_name,insurance_policy_number,insurance_group_number,insurance_plan_type
+008d55d7,69a60a8d,"Hart, Bennett and Randolph",b17bdc0d-a72,9c8a42ae,Medicaid
+00a1fcc6,01543a2d,Moon Group,09010e79-47d,102c31dc,Medicare
+00e8b5e2,32e476d3,Wright Group,5a88c220-cb1,c23eee87,Medicare
+018d3468,3cd75243,Porter and Sons,5c103013-b7b,8b4a8f57,Medicare
+01c6780c,1d7c6ac5,Moon Group,d8304b61-cb1,727a2652,Medicare
+047b9f52,493a4a1e,Porter and Sons,1055be79-119,d5a4bb45,Medicare
+050a83bf,6c1d708a,"Hart, Bennett and Randolph",231045d6-23b,160bf7f8,Medicaid
+054c855d,eea42c16,"Hart, Bennett and Randolph",4f2c6479-a83,cad8a9e4,Medicare
+05d0e3ac,f23b0d07,Moon Group,4b98cdea-9bb,68541dde,PPO
+074860c5,02e10165,Moon Group,97e562f3-f18,db4b8117,PPO
+079eac6e,07af0178,"Hart, Bennett and Randolph",8585d46a-922,1c1c7552,PPO
+0812bbc6,cee83024,Martin Inc,e04f4051-592,aec27549,Medicaid
+081c4cf1,a49e9c90,"Hart, Bennett and Randolph",631b1397-fbf,d967f026,Medicare
+08208150,929fcfe9,Martin Inc,96c61241-050,b093e089,PPO
+08716b7e,afd17bd2,Martin Inc,e5150f9a-4c6,a59f5dd7,Medicaid
+09510e0a,2a5a85b5,Wright Group,6537f5e7-8f1,54be8566,HMO
+097a94a7,09343c73,Martin Inc,052ed866-f5a,245997fa,HMO
+09de8fc4,f31ecf60,Martin Inc,77d71aa6-b40,ceeae442,Medicaid
+0aaee016,5d13d66c,Porter and Sons,e73b8d5f-cd3,f01d1503,HMO
+0b097020,2deda9b9,Moon Group,05f6225c-43c,7a514f79,Medicare
+0b96e6f7,87f40713,"Hart, Bennett and Randolph",8cf1e1dd-c46,8b49d7f3,Medicare
+0c5dfbc7,6bfbd135,Moon Group,6022b630-9d0,ca8358fc,Medicare
+0cc7306c,8fa9b56f,Wright Group,00972374-2f8,48b13f8b,HMO
+0da62100,8b47a323,Porter and Sons,d5bfde6d-70b,5b3d101a,Medicaid
+109112a1,1cc851e8,Porter and Sons,456b9fe3-bd2,c22dc88e,HMO
+10d29f17,e783cd55,Moon Group,4d938244-189,04c0220d,HMO
+11464c20,7786a15f,Wright Group,877678af-57f,33f73583,PPO
+11bcbdc9,f06841e3,"Hart, Bennett and Randolph",3b54f770-460,63cfb309,Medicare
+132f47d6,14b8c0e5,"Hart, Bennett and Randolph",284cf3db-117,5fa0c45e,PPO
+133afaaa,1e8e1776,Wright Group,af521f74-a9b,da4358c1,Medicare
+13465be6,e0a3bd38,"Hart, Bennett and Randolph",740085bb-d91,2bafa684,HMO
+1451787f,c60f5301,Moon Group,bedf14a1-b9f,4a78047d,Medicaid
+14a2d2e0,319e5782,Wright Group,8ab86ec6-994,0fd1898c,PPO
+14bc6908,c2167a44,Moon Group,884850a4-2d0,a356ee70,PPO
+15faa606,6030423c,Martin Inc,e8d72445-c19,29bdef6a,PPO
+1634f3a4,e047fcf7,Martin Inc,434935ab-4c7,f0d3309d,PPO
+163b49d3,81ea200b,Moon Group,38acf7b7-03a,ba486493,Medicaid
+16d17bf2,6c5bbf99,Martin Inc,332d7689-82e,99e3acd4,Medicaid
+170b2fd9,fc0aedf5,Wright Group,37d66a6b-31d,4237092c,Medicaid
+1788a78b,bba4cae4,Martin Inc,ca7bef09-001,be1131a0,HMO
+18ef1d26,d0a86929,Martin Inc,3aa692d5-2e6,bcf79aff,PPO
+19570ea9,ce3eed04,Porter and Sons,eb42b07e-55b,c52a5e5c,PPO
+1a4c29d6,1ada178d,Wright Group,053d18fc-326,7b4e46ed,Medicare
+1aabfde5,e5a7560f,Martin Inc,537599a7-c87,f4036042,HMO
+1ab8963a,6c8d9d8e,Porter and Sons,3f554ca3-20e,f09c9502,HMO
+1c9856f1,7806ffc2,Moon Group,85282633-26f,b8af2ab4,PPO
+1cc1a319,1881ef06,Martin Inc,c66aa10f-f21,3a4f3070,Medicaid
+1d08fbff,fddc7de5,Porter and Sons,7adae8aa-ca6,aaf67e05,Medicaid
+1db35b14,c67f5b43,Porter and Sons,86d96ec6-18c,811b351c,HMO
+1dd02170,2e0e6780,Martin Inc,c5ba3ef6-399,1774f177,HMO
+1e0eb223,2cdbd13b,Moon Group,8c445e97-b64,71fd1646,PPO
+1e25cda6,864bc014,Martin Inc,2721f316-489,631837dc,Medicaid
+1e800216,1bb2c146,Porter and Sons,9b4123b1-1b5,ec1562cc,Medicaid
+1e8153da,b21245b2,Moon Group,83810aa2-5cd,c431c091,HMO
+1eb6f191,991d165e,Porter and Sons,7ebc8d47-428,193a0a99,Medicaid
+1ed8280a,697f6f8f,Wright Group,69b98622-fd4,9fb0124b,Medicare
+22c07771,a567ce59,Martin Inc,b2044034-ab5,de81bf16,Medicare
+22d9e017,7a63a12e,"Hart, Bennett and Randolph",a0307617-03b,545c9726,Medicaid
+230fa903,f55017eb,Wright Group,d10b0891-e11,acca6241,HMO
+237317be,441888ae,Porter and Sons,d88cc610-cc1,25830fa7,Medicaid
+23cbf09f,00c192dc,Wright Group,37864c6e-609,ab755301,HMO
+24df443b,c130574b,Wright Group,9e15d68a-493,044a197b,HMO
+25f185c6,149f6109,Moon Group,43b9efcb-0f8,80a12ec0,PPO
+26600771,28964a8e,Porter and Sons,3428fb5e-5ab,bb4dcfde,Medicare
+2662787e,610db7cb,Wright Group,d86a2f4e-31b,a341bba5,HMO
+26d4a88a,ea693bf1,Wright Group,72b4a6d1-763,d049dc7f,PPO
+26e51213,84cb906b,Porter and Sons,e4e42531-dba,6afef43c,HMO
+26fe1322,e55eee37,Moon Group,73b9d571-8e2,7f392832,Medicaid
+27375ebc,50172a13,Porter and Sons,35ea1e0b-0c4,a481ad74,HMO
+2761b235,5581f256,Moon Group,861f18eb-205,ea3b16ce,Medicare
+280c25a3,5099ee42,Wright Group,b4a74b09-5f9,572bb784,HMO
+282dac11,40bcbe33,Martin Inc,f33c188e-fd8,5fb207a5,Medicare
+28641268,5b5e0e41,"Hart, Bennett and Randolph",2c98a481-d3f,7f27be79,Medicaid
+28bfe157,fd6aca8c,Moon Group,7b915c13-4b8,60340e30,Medicaid
+29436a1e,88871dba,Porter and Sons,3dfa8774-42d,a8129f60,PPO
+296f3f2d,b6b8394c,Wright Group,278fbe69-562,27011f3f,PPO
+29bda324,092d6518,Wright Group,8f527081-931,45d62895,Medicare
+29dc9da5,28529ee1,Wright Group,f035db4c-25d,b9030c8b,Medicare
+2a0a791b,ba37abb6,Wright Group,76887822-7f8,136f3c62,Medicaid
+2a76a717,7f765620,Wright Group,ca742a1b-79e,d04b7ffb,PPO
+2ad4ba4c,a598aa75,Moon Group,c9478708-276,1fb851f6,Medicare
+2afd29d7,d87600e3,Porter and Sons,5e1f5be9-0f0,f43f388f,Medicare
+2b3a7200,cbb5e3d7,Martin Inc,44349111-56d,da029b5d,PPO
+2c6f3d98,240c127d,Porter and Sons,229a6cd5-525,80ef9377,Medicare
+2d62b2f8,290782a9,Martin Inc,e5b3e9e0-1ff,d0145d18,Medicare
+2f2b7ba0,ed63f7e2,Porter and Sons,e215de24-cec,02bc35ca,PPO
+2f80fbab,5ca32c94,Wright Group,8a3b3fb3-28e,886934b4,HMO
+2fe83c53,2018a787,Moon Group,8c911938-08d,5ff10337,HMO
+300a0ef5,4298b500,Moon Group,c33b5301-3f2,3ae166cc,Medicaid
+302127e9,0ac96e0d,Porter and Sons,f30e7790-764,5674a256,HMO
+307e99fb,c609ccf5,Martin Inc,351af85e-fba,7550b803,Medicare
+314a757a,b81ae0d2,Moon Group,e42181fa-ed7,97d2b9df,HMO
+3150291d,8a81e22e,Wright Group,915c8f62-5ae,32f5c846,Medicare
+31a3baf0,efa80906,Porter and Sons,39f5e353-3b6,58acb66a,Medicare
+333a1afa,232d9580,Moon Group,fe16a283-620,73a01460,Medicaid
+33879f9b,1cec970c,"Hart, Bennett and Randolph",f921812d-e01,3cb5ef5b,Medicaid
+338dc31e,fb94388f,Porter and Sons,0a44db5b-ec0,aaa201f4,HMO
+33b80333,ec310674,Wright Group,36fa1840-310,33395501,Medicaid
+33ff68c6,fa764536,Porter and Sons,1dd44410-c4f,27c966c5,HMO
+34704c34,4336a92a,Porter and Sons,5ed92696-1ca,d506d054,HMO
+378c72e3,99b29591,Martin Inc,e9a19e3f-8b9,41d7b9e4,Medicare
+3813c7cf,b79a7f39,Wright Group,7cc56bc7-895,e4468df2,HMO
+390fd931,c01617ec,Wright Group,2842300a-e73,b251a1e0,Medicaid
+39651236,0a944d45,Moon Group,e34c15f9-6b2,b0d3a26f,PPO
+39f6b904,c20e6eb8,"Hart, Bennett and Randolph",311542c7-9ff,c7b3e15b,PPO
+3bf7dfc9,d05608cd,Martin Inc,21430106-ab5,77018dc6,PPO
+3c241d00,596cd3a3,"Hart, Bennett and Randolph",392467ae-23f,7abb176e,HMO
+3c48e47e,4bbe3d50,"Hart, Bennett and Randolph",998b6d91-be2,eb21dd4b,Medicaid
+3cd368d3,8a69fce8,Moon Group,47f3a40b-8cb,e24c58d0,Medicaid
+3d20ef12,c9319d8a,Moon Group,cc773bc2-254,a082e7bd,PPO
+4003b0a4,a927dc46,"Hart, Bennett and Randolph",c30eb947-f3c,1e68c48a,Medicare
+4146c826,67ab6f76,Moon Group,97405174-2ba,7d05f5fa,HMO
+43361d5b,e6f440eb,Porter and Sons,85ba63d6-b24,320bc657,Medicare
+440610b3,4812173c,Wright Group,60f1f66a-441,6d470417,PPO
+4426aee9,754f7898,Martin Inc,59a72c45-f65,af62ca3d,Medicaid
+449d80e2,4f5367f6,Moon Group,b9024c1f-f1e,97682c59,Medicaid
+452b4fd2,afbdd9a9,"Hart, Bennett and Randolph",375ccd84-2d8,23c99512,PPO
+4552e4dc,db60d30c,Wright Group,79736a6b-169,2e2e8e50,PPO
+45a219a9,41180348,Moon Group,0bad10d0-a8a,033bc345,Medicaid
+45abdbbe,53e0bc4b,"Hart, Bennett and Randolph",7af08002-c47,3362dcf6,Medicaid
+46c54393,43e8cfc4,Wright Group,b8c1e526-db5,14c06143,PPO
+4713da75,5be77389,"Hart, Bennett and Randolph",093db431-ca0,515e8dae,PPO
+4754db4d,4bac943b,Moon Group,4446815a-bbc,6e9ade45,PPO
+479584f3,bc558a20,Porter and Sons,35041292-798,ae64405b,Medicaid
+48f9c3d1,01bdfd3a,"Hart, Bennett and Randolph",43fadec2-d76,a44c84b2,PPO
+49110f23,a3a0d1dd,Porter and Sons,90945062-f4c,34b6d0a6,HMO
+49cc90c8,3065d978,"Hart, Bennett and Randolph",383c6faf-67e,765dc076,Medicaid
+49f913d7,5d1e7017,"Hart, Bennett and Randolph",ba9f8dc4-b2b,f474e08e,Medicaid
+4a0aee33,a388c945,"Hart, Bennett and Randolph",2b09294b-b25,9c17c1be,Medicaid
+4a156185,c83b9725,Wright Group,29f5ffe2-cd9,227e33c6,PPO
+4a5f67f0,2a4eda28,Martin Inc,f18c4456-40b,5175bee2,Medicaid
+4a972390,90e5efdb,Wright Group,a46bae9b-f62,0b6ad363,Medicare
+4b300d1b,ab346f04,Martin Inc,0c053c92-e63,94575dc2,Medicaid
+4b498c41,8da069ba,Moon Group,ba8d7e99-1e1,b6263a8c,PPO
+4b97c457,29eb2089,Martin Inc,e42560b0-b61,36fbaac0,Medicaid
+4bb227dd,ec27d826,Martin Inc,37a4218b-adb,3003319a,HMO
+4ca4254c,72727add,Porter and Sons,8b107533-81a,940d54d7,PPO
+4d27f0d6,302f4846,Porter and Sons,94882577-39d,ef3f32da,HMO
+4d2d2e19,d8d9d8ac,"Hart, Bennett and Randolph",fd8ed9e2-ee2,c86a9c37,HMO
+4dd1dc35,6c5985e2,Wright Group,cc2472be-05a,1aab9032,PPO
+4e45d0eb,eeeb922e,Martin Inc,26837dad-158,b983ca1a,Medicare
+4e7f516a,d7e54a12,Martin Inc,62142fab-6ea,4d552f1a,Medicare
+4eadf076,8508d719,"Hart, Bennett and Randolph",25cab6f5-705,59f8606d,PPO
+4efba329,00ec33dc,Wright Group,67b241d6-ad7,4852e2ad,Medicare
+4f23bb12,110c2728,Moon Group,77f1a1ff-a99,fe24b419,Medicare
+4f314331,d529af94,Moon Group,5af7d220-f40,f8469126,Medicare
+4fd909a4,cda17c57,"Hart, Bennett and Randolph",276ae851-58b,1b0d8ebe,HMO
+502bdb0f,107626fa,Wright Group,44474e9d-3b3,3fd780c0,HMO
+51693b2e,112a31d9,Porter and Sons,1f4f537d-977,43274970,Medicare
+518e3c88,61ccde5f,Martin Inc,d8a25e4c-a8d,575c42c6,HMO
+51a9d0e5,e7dc9187,Martin Inc,e9607262-c17,13c23f2f,Medicare
+51d82a08,f9cba4ad,"Hart, Bennett and Randolph",69296690-db8,37c050bd,HMO
+51f1cd32,19c935ad,Wright Group,7a46b9aa-f56,3eef7275,HMO
+523546b7,f6057066,Porter and Sons,15fd8ce4-ad9,50b35369,Medicare
+5251ce1a,484cb236,Martin Inc,d3ff892f-9f1,30253102,HMO
+52c0cc83,cba8601e,Martin Inc,7940bb89-33b,943daa83,Medicaid
+5305a7c7,98161fc3,Porter and Sons,715ab8a6-73f,e82a7ef2,Medicaid
+531eec9e,21b8af22,Porter and Sons,6f497571-45a,5f56d06a,HMO
+53fd6acd,a7a97532,Porter and Sons,9892ac40-a64,cb0fc303,HMO
+54a265c0,0ef216e9,"Hart, Bennett and Randolph",0672ca4e-82b,900f759a,Medicaid
+54e18118,f6b53c1b,Wright Group,707b1698-bf8,7d5eff92,Medicaid
+55aba09c,161299ae,Martin Inc,d50105a9-6f6,82861412,HMO
+564f5fc4,04f03d30,Martin Inc,9fa691d9-3ad,73b0ee43,HMO
+56e58248,79fdc7e3,Wright Group,8a075a6f-168,fa5f40be,Medicare
+56fb93ef,d0b22070,Martin Inc,ec271f3b-181,03a75756,HMO
+57bf0187,b6121cc6,Moon Group,251f02de-f27,60468ae8,HMO
+57dc7d88,f5837fa1,Porter and Sons,451b117f-706,e4272122,HMO
+580a0677,e9cf1408,Porter and Sons,9199651e-b8b,e2118337,Medicaid
+59310ac5,1b5b8540,Martin Inc,801b0058-50f,911c296d,PPO
+59a07afe,f5ab6371,Wright Group,e99691c1-9a0,39cab9c3,PPO
+59c4f259,0cca50c7,Moon Group,1bd1e54e-eea,6357665a,Medicare
+59e4f4c4,b7ab5281,Moon Group,9d0f8b7a-0d2,3ab0c8f9,HMO
+5a2ef69e,7dd9bc3c,"Hart, Bennett and Randolph",e36e4877-540,a310e2f4,HMO
+5a951162,bfb9c9b2,Moon Group,248fe798-36e,12f296f1,HMO
+5ad01d7e,d6b89fe2,Moon Group,379957af-823,d18d46a3,Medicaid
+5b48985d,09214d29,Porter and Sons,b9e1eda7-1ed,9c716ee6,Medicare
+5b6b76d8,749f15e7,Wright Group,6fdfac2e-f07,c1160545,PPO
+5b6c0bd0,0183b771,"Hart, Bennett and Randolph",b54fa086-3f5,781402a8,Medicare
+5bf6d3fc,91315bc8,Porter and Sons,45cd0b73-d18,dc05a1ce,Medicare
+5c07dfd9,089e0989,Martin Inc,f73765cb-dde,d8d630f2,PPO
+5c2d04be,50744ce5,Wright Group,262c9650-16b,869d0c37,Medicaid
+5c44edf7,d8a277c6,Martin Inc,de7ebce5-b8e,097494db,Medicare
+5d798689,91898227,Wright Group,04def9c1-113,c60afdd4,Medicaid
+5dfd6a09,cee3a604,Moon Group,ecf567e3-624,517e1bfa,HMO
+5e3ec503,b29fa540,Wright Group,36a00ec7-dd5,b3fcb6f0,Medicare
+5ef98ba4,5e10ada9,"Hart, Bennett and Randolph",33e7f281-bf7,dca0975a,Medicare
+5f506e06,5a91dde7,Moon Group,788b2aa6-821,0b505856,PPO
+600a53a7,1995243a,Moon Group,574d09fa-350,31d9f66f,HMO
+60449e34,50796bcb,Porter and Sons,fa7d0418-41a,7b96a9dd,HMO
+616a0a82,394cc5b1,Porter and Sons,48cf0660-54c,bf96beaf,HMO
+617e0830,19f062e0,Martin Inc,1e309450-c3e,a4cf0f4f,PPO
+61c48e4b,1b74367d,Moon Group,310b7e58-c5d,1c1ac1ec,PPO
+62084046,6059b995,Martin Inc,fcd9757f-7db,947c6747,Medicaid
+62234290,dbbaef73,Martin Inc,aac002be-75c,cecb8d05,PPO
+623ad92f,14978fec,Wright Group,222503ba-259,d4965a96,HMO
+63057959,249958ec,"Hart, Bennett and Randolph",781867e5-9b2,49d6bd4f,Medicare
+63d9046a,27f413ed,Martin Inc,f96ec572-c25,f8c46100,PPO
+64451854,a3f08c30,Wright Group,d7067dbf-2f4,e9f66cf8,Medicare
+65044134,0972f9c1,Martin Inc,dc201306-eb8,9d01e36c,Medicaid
+6638c583,f4773257,"Hart, Bennett and Randolph",d13459ab-3a8,0d245eac,PPO
+665cc695,8cdee3bc,Martin Inc,ca133242-d0d,02571261,HMO
+66764bdb,808d23e6,Wright Group,297fe64e-37c,da29f553,HMO
+669c2bce,54912265,Porter and Sons,1b504f8b-e96,bd4bd963,Medicaid
+6892548b,0c5b25c1,Wright Group,8f7df11c-7da,c99bd4ba,HMO
+68933f8e,e569c802,"Hart, Bennett and Randolph",2bc6cfce-d56,8055f89e,HMO
+690242ef,1e7ab63b,Moon Group,8a3cd668-ae6,cd5754fd,Medicaid
+6a3b58de,c50b7ad0,Porter and Sons,3032bef3-d7a,70ff23ce,HMO
+6a496e53,d036f036,Moon Group,915c9cb6-83a,6b76b77e,Medicaid
+6a9b3bad,7faaa64f,Moon Group,9b12c14a-0d7,c90c7ec4,Medicare
+6acda8a0,c77436d5,Porter and Sons,9f460def-8f8,3ff417f6,Medicare
+6ad6f0d5,011f18ec,Martin Inc,4618f1c5-6b3,52bbadab,Medicare
+6b6a1ae4,c79f4476,"Hart, Bennett and Randolph",73b5c501-7a2,69e2363f,HMO
+6b763d53,21e74da2,Wright Group,51b82dd9-89b,396d736f,HMO
+6c9cf3a8,fd602a78,Moon Group,96413276-0db,6c17f580,Medicaid
+6da0bcb4,51fe76af,Porter and Sons,f6ab9599-331,db6990bf,Medicaid
+6dee9da1,200e8f0c,Wright Group,79b03760-942,f9869faf,Medicare
+6e8d3fe7,cb1da924,Porter and Sons,5296b2bf-bf1,13d30dfc,Medicaid
+6f04441c,78c4080d,"Hart, Bennett and Randolph",7ea449dc-5cb,759ebf55,HMO
+6fb0da8a,630005a0,Porter and Sons,cb38655b-b82,51f21048,HMO
+70d0078a,479296ac,Martin Inc,898df2a6-b04,57401ab4,PPO
+70d6a834,ab26539c,Moon Group,8c8c325d-f63,f09ba754,Medicaid
+71afb080,fdc23dc5,Martin Inc,457502f8-d77,85d26c57,HMO
+724e240b,f95b1953,Martin Inc,ed32afbf-d31,7ef19a96,Medicaid
+72e064d9,3c3b6402,"Hart, Bennett and Randolph",c7bc4731-fcc,4486e4a8,Medicare
+7307fd95,fca9afcb,Moon Group,b2c17863-701,39b2a248,HMO
+73c022b7,5ba5e1cf,Martin Inc,f5b0733d-f41,e8d99f29,Medicaid
+73c0dcb4,ce02d25c,Wright Group,374662fc-1a6,b082308e,Medicare
+7435798a,2f35103d,Moon Group,3db002c5-8ef,2be57a69,PPO
+743721ed,333861c4,Martin Inc,01947d55-11a,72e4c087,Medicare
+758867c4,3d4ffd0c,"Hart, Bennett and Randolph",d24246d9-8e8,f31df3ce,Medicaid
+75bfbd25,3eda0cb7,Porter and Sons,fc79d936-9b6,46df8d6e,Medicaid
+760a7de1,6a6b7845,Porter and Sons,dc5ad51f-e2f,8366f1a9,Medicare
+77358f75,0d05f089,Martin Inc,6703e29d-df0,2bf1b57e,Medicare
+778a47dc,0e12daef,Martin Inc,ef87d9de-084,6551ba95,Medicaid
+78180e88,1afbb992,Martin Inc,5c9d8afc-79a,5300cac4,Medicaid
+788de9d0,0222bcb9,"Hart, Bennett and Randolph",353847b0-dfc,8d771b1b,Medicare
+79aff266,d7d90e72,Porter and Sons,c4cb74e4-0f2,8fc03a4c,HMO
+79e7afae,ab0db22b,"Hart, Bennett and Randolph",86315f8f-9b5,f2565337,PPO
+79eaa92f,378f2723,Porter and Sons,4429ac57-771,e081c24e,HMO
+7a02c5bd,012a9222,Moon Group,f0d99d96-e23,d436404d,PPO
+7a207efe,1bc9f4b9,Porter and Sons,2f5cbacc-f7d,a69cee54,Medicare
+7c1fa56c,46cbf4b1,"Hart, Bennett and Randolph",e56e9456-51b,c2369b74,Medicare
+7c8b63e7,28aa76a3,Martin Inc,3066b610-919,e86c0ced,PPO
+7ccf0859,8f2c9179,Porter and Sons,d37dbeb7-36e,fc7ade7d,PPO
+7de7f06c,7da38c57,Porter and Sons,55857412-b0d,a5278979,HMO
+7e495a1e,3d2e7f90,Martin Inc,65dd17a4-af1,70872889,HMO
+7eb1312c,1731e87a,"Hart, Bennett and Randolph",a178e681-6bd,9a347173,Medicaid
+7f37e020,7e48c4f9,Moon Group,2abc2343-191,0828c960,Medicaid
+800229c3,c006ff25,"Hart, Bennett and Randolph",5f908d7b-caa,2d3af337,Medicare
+812bc01e,c96a263f,Wright Group,98bad85d-c56,80097e87,HMO
+82063938,653c7743,Moon Group,e2e76cbe-376,4be3325a,Medicaid
+82578e5e,5b3fd707,Martin Inc,43ce697b-c10,3c80b21a,Medicaid
+82bf3d91,f30076a2,Porter and Sons,9ae201d2-974,4855727c,Medicare
+82df5b20,3f04b2d6,Porter and Sons,5bbab2f0-e2a,be627ccc,Medicare
+841061cc,e6712a85,Wright Group,8dc27d57-366,78e8672a,Medicare
+850be7d4,bd447a59,Moon Group,43fb3d24-dbc,f70bc2cc,Medicaid
+854deeae,690ba379,Porter and Sons,23dc2579-697,550a5a1f,Medicare
+858fbc43,7314a0c1,Wright Group,d348b10b-7b8,b92afa2d,PPO
+85beeef5,324c40f4,"Hart, Bennett and Randolph",9748ae3b-ffc,a2b58057,Medicaid
+860da731,55076b66,"Hart, Bennett and Randolph",9c8cf49f-611,6467a86b,Medicaid
+86a8d987,77c181bb,Martin Inc,b739e76e-856,f23308d1,Medicare
+86ce8ebc,ec49eaec,Moon Group,18164e3b-80a,d9485159,PPO
+872407d7,bd1926c8,"Hart, Bennett and Randolph",ca22d967-f44,09f04261,Medicare
+87525bb1,fd90c638,Martin Inc,496a0d8f-8b6,3015d873,Medicaid
+8788ffc8,c42c07ed,"Hart, Bennett and Randolph",6b4b9279-97f,f02630e2,PPO
+886cd77c,e5c1dbec,"Hart, Bennett and Randolph",2357f6cf-3b6,e840a483,HMO
+891f7cb5,816406ca,Wright Group,c37678e7-81b,a21469be,PPO
+89e0ec91,b1fd600f,Martin Inc,f8c921e8-044,24806494,Medicare
+8a12b9b3,062d560b,Porter and Sons,c2b2c06f-65d,37df08aa,PPO
+8ac89a22,22f9cab4,Wright Group,8b102e2c-ecc,6b54bb4e,Medicare
+8bebe3bf,04097aef,"Hart, Bennett and Randolph",327535c5-b66,8d6a6766,PPO
+8bf53fa9,5b175528,Martin Inc,9e279b95-4cc,09912b9c,HMO
+8c0305c8,a08e27a6,Wright Group,0c8bf90e-e53,5181ddd3,Medicare
+8c36e495,31cd4571,Martin Inc,6b126ad9-7b1,44eabbbd,Medicare
+8c73a58d,7cd70676,Wright Group,a993c770-934,d799806a,HMO
+8d0033c4,72acfc56,Porter and Sons,e2391464-a13,63102ba5,Medicare
+8dcca1d4,bce68cb2,Martin Inc,416aa362-6fd,fa6d1cd7,PPO
+8e44707d,ca293827,Porter and Sons,f7b2c4e4-1ff,1c48a93b,Medicaid
+8ff60efd,53b8bce8,Wright Group,97f69a7a-c0c,0000ed02,Medicare
+90ac4626,5322f921,Porter and Sons,6e6377aa-83a,d55462af,Medicare
+9109899a,6e4fe3f2,Porter and Sons,e7b20089-e65,e8c5876c,HMO
+9196213a,1b1a73b0,Moon Group,4019af6c-7ce,89cef84d,Medicaid
+9265eb9a,6518b947,Martin Inc,c9fb764e-d8f,e4bc9ed5,Medicaid
+92683d85,69892bba,Porter and Sons,8925728c-7da,25d7ff49,Medicaid
+92a07e07,78ef2a84,"Hart, Bennett and Randolph",d3218f29-1d6,314ad01c,Medicaid
+92b0cf45,80babd72,Porter and Sons,e8e7cedf-e5c,53fda848,HMO
+93e0bf56,e0765f68,"Hart, Bennett and Randolph",cc7a8441-803,88696a5e,Medicare
+9432c787,843cb151,"Hart, Bennett and Randolph",5585d59d-bbe,e33646a3,PPO
+94ce6349,94e0e8b4,Porter and Sons,9ebeb827-be3,b4814c52,PPO
+94d82364,37a5a17c,Martin Inc,5f377440-bab,4500a412,HMO
+9513edd1,9600313b,Porter and Sons,4649988b-1d8,c08a075d,HMO
+95841d6a,775d1138,Martin Inc,71fb5be0-00b,fbf31cac,Medicaid
+95f395b7,4185adcf,"Hart, Bennett and Randolph",db7cd916-564,419f1f3e,Medicaid
+96901701,8fa5e2aa,Porter and Sons,6e3794a0-1c1,ad38170d,PPO
+96b28746,931503b2,Wright Group,89420d8c-61e,97e1ef48,Medicaid
+96f30f41,bcf66898,Martin Inc,bcf0c2e6-11e,eb229d8f,Medicaid
+9791b850,ed1eedc6,Martin Inc,5330719c-601,4caec000,HMO
+97aec40a,276c3702,"Hart, Bennett and Randolph",6a1b1562-d98,309229d9,HMO
+97ea1ab1,cb673789,Wright Group,8cffe88a-c4b,744194e2,PPO
+9804e9e2,b0cfb8e2,Martin Inc,d7665ca1-d52,d9044dd7,Medicare
+98fdc7f4,6b9d1d45,Wright Group,eec5280f-add,69a9d489,Medicaid
+99264138,556ee6e2,Martin Inc,4b7c4e11-2ea,31244807,Medicaid
+99417322,ba001365,Porter and Sons,87a6f1ec-60d,b4832574,Medicare
+9971edaf,850ea598,Wright Group,975ca35c-d3c,a1f03a50,PPO
+99763f70,a1a0667a,Wright Group,af1850cf-8e2,b362b657,Medicare
+9997eda2,3bab7ffa,Wright Group,6c81fa25-500,dde7b119,PPO
+99fcce55,aa770653,Moon Group,80c57007-ce0,7fabf818,Medicare
+9b56b455,44b5581d,Martin Inc,b66bbed5-f0d,733e7ae4,Medicare
+9b5d5a2e,87b397a8,"Hart, Bennett and Randolph",9a38779f-f5d,6844a657,Medicare
+9bc7f910,d85106c1,Martin Inc,9fb35ef5-a47,e1209706,PPO
+9c221b06,3e703f81,Moon Group,7ac4ef99-296,1856d4ba,HMO
+9c6822b3,fd78023b,Martin Inc,f0e0af38-df4,2fd67e09,Medicare
+9c702e23,fd13587c,"Hart, Bennett and Randolph",794cc76f-bc6,3d947702,HMO
+9c88a9bf,1de69408,Martin Inc,b8bead71-a5a,3f722893,Medicaid
+9cfe035b,49d606f0,Wright Group,868acf0a-0ea,64529803,PPO
+9d184ade,5826ed6d,Porter and Sons,f6765393-442,62f83b86,Medicare
+9d185ec8,f3f6f718,Moon Group,5c8878b6-3e6,bd695d3b,HMO
+9d2883f1,31d36b9d,Porter and Sons,23f736cd-709,2da5483a,PPO
+9e4c89eb,f042afcb,Martin Inc,525c86fc-81b,478efc9e,HMO
+9efe0cc5,0d05aa2f,Martin Inc,cfb73db2-8da,0e1b9aa5,Medicaid
+9fa3284b,bc7c2e56,Martin Inc,de8dde6f-f07,5e37a96c,Medicare
+9fd618af,35832388,Moon Group,4aa85654-ef1,013a9da2,Medicaid
+a03c2d18,8f2672d8,Martin Inc,6a59daed-d3a,674fd1d6,Medicare
+a04e3a76,001155ee,Moon Group,8a31c8e2-31a,2aac0e5a,PPO
+a055a697,d0f0dcbf,Porter and Sons,2cdc6f94-5da,e4ba72d0,Medicaid
+a0911fcc,e311247b,Wright Group,5cdc32cc-1a6,af5378c5,Medicare
+a32ff2fc,71f336f8,"Hart, Bennett and Randolph",cbdef0b4-79e,579d7dd1,PPO
+a3426566,5b9d4721,Wright Group,00b24512-c30,5a74305d,Medicaid
+a3523bdf,41ef6599,Wright Group,2732324b-d4e,960a7b00,HMO
+a3cc5569,6a94e713,Moon Group,6892b84d-2b5,d561892c,Medicare
+a3fac234,908c5530,"Hart, Bennett and Randolph",95944163-235,87279cba,HMO
+a440aaac,5dad394d,Wright Group,545bcca2-a40,7f28b1af,Medicare
+a458897f,eb664496,Porter and Sons,8f3660cf-f3b,31a1c423,HMO
+a5354fbd,93abd195,Martin Inc,4202ff76-cea,c98ab35c,PPO
+a6082ebb,01e11ffd,Moon Group,466aa598-02c,36669488,HMO
+a60c102e,a1116903,Martin Inc,8304a0c8-12f,f6c4bf92,HMO
+a654eb67,53505465,Martin Inc,e92646ac-d94,dd27dcd8,PPO
+a6bf9a1e,82545ce4,"Hart, Bennett and Randolph",3d8e30cf-c6b,20b24228,PPO
+a6c3aa68,a1a93f4d,Martin Inc,c23f29a2-8b2,ce2869c9,PPO
+a8230f9a,4d723bdb,Martin Inc,31a106b5-8f5,2b16f324,Medicaid
+a8619a94,a0732533,Martin Inc,eef0c506-d44,70cf0218,PPO
+a9315a83,5b18dba9,Wright Group,8ce6239e-36b,04963138,Medicaid
+a967fc49,b90c4e41,Porter and Sons,b5bb95e6-76f,acced493,HMO
+aa42155f,346dc4f1,Moon Group,e06ebc83-30d,bea30c2e,Medicaid
+aa52343a,9a22baae,Porter and Sons,77d67b28-2ed,bc291057,PPO
+aad2e7f4,b3eba06c,"Hart, Bennett and Randolph",1722e7f4-120,34d3bbdc,Medicaid
+aad4ed5f,1e65cbd5,Moon Group,07c0a29a-d6e,6e5e20a9,Medicaid
+ab40ac46,48a0b23f,Moon Group,54664a6d-430,e4f4ce00,Medicaid
+ababba31,6162d224,Wright Group,9523a563-7bc,8255123a,Medicaid
+acd6d612,b2707d51,Moon Group,ab898026-a62,61feaf89,HMO
+acdb2694,23a22e5d,Martin Inc,6bedd331-649,b85b0e87,PPO
+ad29102b,359b6669,"Hart, Bennett and Randolph",94d57415-1e9,b69036ba,Medicare
+adb37e33,6ff9ce74,Porter and Sons,a79a8582-2a8,c3a9e733,Medicare
+adba4916,6a8f3b81,Moon Group,7ab7fc0f-947,914385b8,PPO
+ae4187b8,ac59de84,Porter and Sons,edf82fea-a67,f2d42fc5,HMO
+ae80b07a,2ad61d54,Martin Inc,79d03241-21a,82435919,PPO
+aeec6f98,d1f8d358,"Hart, Bennett and Randolph",c2fb5ad8-ddd,923ff43a,HMO
+af291511,0a783dd8,Wright Group,964856ce-33e,6296260e,HMO
+af63836b,d5c02899,"Hart, Bennett and Randolph",1820094f-82e,a5da39ce,HMO
+b10b2986,641d5714,"Hart, Bennett and Randolph",689a4b53-32f,a62013c7,Medicare
+b11254e7,e1812376,Moon Group,ab2d2397-5c6,60173201,Medicaid
+b1175fa8,b2b3e3ad,"Hart, Bennett and Randolph",3b4f6ac2-2ef,0baeafb0,PPO
+b19c4a82,e44131c7,"Hart, Bennett and Randolph",532b23da-679,e874b0a5,HMO
+b1b80c11,dce093f0,Moon Group,bd902ed4-50c,91eb212d,PPO
+b1c0ce66,efe9b73b,Martin Inc,08bf6700-60b,69ba8cdf,PPO
+b1f1f5a8,0dbb28fa,Porter and Sons,e69a36fd-d02,ecd96b1f,Medicare
+b2011323,5311fadf,Wright Group,7e4ca5ee-5cb,51ca4e2e,HMO
+b29425d9,9191d392,"Hart, Bennett and Randolph",3fc4d1da-55e,eaab6045,Medicaid
+b2f8a10a,96c35fa1,Porter and Sons,91aeb6b0-e00,51ed6d7f,PPO
+b31d08f8,9bc94bcb,Martin Inc,4ac323a6-24e,4b3aed48,Medicaid
+b3985d8c,b03cca85,Martin Inc,07a47b39-da6,6c02871f,Medicaid
+b3c7350a,ff5fa790,"Hart, Bennett and Randolph",4c93780f-724,6572b172,Medicare
+b3da9144,77aa45d7,Porter and Sons,9dc2adcf-f83,fd8b2b70,HMO
+b4da2813,264b816e,Wright Group,fa7b8ca4-b1a,3b3a1eb6,PPO
+b5247da8,da4d4225,Porter and Sons,f25edcdb-dca,a2bbb8ce,Medicare
+b5ce0706,281eac49,Martin Inc,73a04630-d7a,3c725fb3,HMO
+b60a7e5c,f13ed139,Wright Group,f4e57a22-e06,600eda94,Medicaid
+b689866c,c1d82dd3,Porter and Sons,23511540-fe9,e20d9f3f,Medicaid
+b6fffe18,6b0d31ba,Porter and Sons,6582147f-1f6,cde359c2,Medicare
+b7fd0592,19979b28,Porter and Sons,61fa5f08-3d4,d664cd16,Medicare
+b80e9140,64ce1ad7,"Hart, Bennett and Randolph",8017b9f6-c63,268f95f7,HMO
+b8292cfb,bf51f81d,"Hart, Bennett and Randolph",9ad2e555-999,e35fb1e0,Medicare
+b878f3ef,e3e7e6a5,Porter and Sons,7a0d233b-2ee,e2c53cc6,Medicaid
+b9014fce,cb00e487,Porter and Sons,581466bb-ff4,a7b617e2,PPO
+b920231a,03d95880,Porter and Sons,a39b2709-a13,c9b9c159,HMO
+b92848cb,77a650ff,Wright Group,62f18fd2-47c,dcd689df,PPO
+b938b959,bcd5872d,"Hart, Bennett and Randolph",21cbd193-645,ed310199,Medicaid
+b96662b6,ef09fecd,Moon Group,0c29ae4e-ddb,08fa417a,PPO
+b9c9bdcf,4a803d7a,Wright Group,811fc46a-6d7,e4cdf256,Medicaid
+bb5c1ff7,c4c1d7e4,"Hart, Bennett and Randolph",252ff259-9b7,8a278c48,PPO
+bb65bc24,b37bee24,Wright Group,def3394e-de5,304211cc,HMO
+bc48742e,eb7ff9e1,Porter and Sons,a5eb1f12-41c,d80002fb,PPO
+be46d80e,90ad6ae3,Martin Inc,0e0277a5-6d2,18f71c14,PPO
+be5d480b,f62f4064,Porter and Sons,d166ecd2-98b,6063544a,HMO
+beb64c7c,0492cddb,Porter and Sons,76053b81-1e6,e6c30bba,PPO
+bed0ad5d,b981c7c1,Martin Inc,909df3b6-e3b,5d7c776e,Medicaid
+bf610deb,27a4a86e,Wright Group,edbeb2e7-b39,aa0c3e52,Medicare
+bfad7aa2,73134797,Martin Inc,daa48781-30e,3ed3115b,Medicaid
+c17d46f3,c29e4f0d,Porter and Sons,65fc4130-be5,2f7dcdc6,Medicaid
+c1a1acfe,eadbdc1d,Martin Inc,2f8f62f5-857,3a633290,Medicare
+c1cc8543,3ba90b7d,"Hart, Bennett and Randolph",c22e19c9-3f5,bb284b34,HMO
+c1da735f,705ed7a1,Moon Group,12754a65-300,66a82a36,PPO
+c1f8976d,6ea98de2,Martin Inc,bb4244da-887,a5af25d1,HMO
+c20418a6,b1a4cc2b,Martin Inc,0cedddee-205,bef6275f,Medicaid
+c2193d6d,d75734c0,Porter and Sons,879ae38f-7ff,f248e1b3,Medicaid
+c23c5c76,73e6b067,Porter and Sons,b700f470-037,50d2da32,HMO
+c2cb2a9b,b002d246,Moon Group,b760a457-29e,5380706e,PPO
+c2f65762,7878c96f,"Hart, Bennett and Randolph",de838f19-8ca,e7dba2d5,HMO
+c2f89a75,83e943e9,Moon Group,d0170f64-e01,ac92fa5f,HMO
+c44f7bc3,c7e989f2,Moon Group,cfc298e7-22e,1740c5a5,HMO
+c4753afb,419a6332,Moon Group,b4f53db8-0fe,d42740e0,HMO
+c4810487,7692dd7c,Martin Inc,cd38bd07-fe4,25c99e00,PPO
+c554c32a,f7e1cdb0,Martin Inc,8a8c7fe8-14d,98e69088,HMO
+c56c3d35,55d7567b,Martin Inc,ad14f842-588,4f6c8a85,PPO
+c577d6cb,cbfee077,Moon Group,9129cca4-bdd,8e3d9329,PPO
+c66282b3,83ebda18,Porter and Sons,a619aaa8-4cd,bcb3e277,Medicare
+c72a6ba5,2cd8e9a2,Moon Group,ae57cbb0-ea1,f5d83f83,Medicare
+c7dd1db4,51c79ebc,"Hart, Bennett and Randolph",13c514e5-6de,158457e1,Medicaid
+c8847a73,df67639b,Wright Group,2424dafe-312,80113a9a,Medicare
+c895b7a9,a91f6d81,Moon Group,194c1d9d-029,8f6bc00a,Medicaid
+c8be3fbe,600f6881,Martin Inc,ac9de56c-086,749a02af,HMO
+c8ebcac0,e559e399,"Hart, Bennett and Randolph",70c608f1-058,0de2a88a,PPO
+c9126c61,ccf64587,Wright Group,92869340-1cc,3a6006df,Medicaid
+c9cda6f2,b370eb1c,Porter and Sons,3cbafddf-fb1,cbc30e10,Medicare
+ca034056,9ced30e2,"Hart, Bennett and Randolph",2f11df56-ee8,3b1170c6,Medicare
+cab171a1,f24dbfe3,Porter and Sons,d8b87937-40c,4e914b98,Medicaid
+caf6c2c3,6398ca9b,Porter and Sons,b46643cc-bb6,882d19d5,Medicaid
+caff81c5,eef8f344,Porter and Sons,6cdf0107-ae4,10c8494b,Medicare
+cb170ac6,20231205,Moon Group,e9c3f1ae-da8,7884594a,HMO
+cb377bf1,e1bbaadc,"Hart, Bennett and Randolph",219fe9ae-678,1d3501e0,HMO
+cb4ea284,d2ac7435,Porter and Sons,0e0b76c3-693,4fdc4741,HMO
+cb74a857,5df76b3f,Martin Inc,525e7fd5-d7a,b131f6a8,PPO
+cbea197c,7d094909,"Hart, Bennett and Randolph",f82daf38-43e,b2d1c9c8,PPO
+cc5285d7,a1816faa,Wright Group,0248c345-b27,c83e0cf5,PPO
+ccd16448,15686144,Martin Inc,7dae23cb-b25,a14f3545,PPO
+cd67afa8,40ab5e02,Moon Group,0bba949f-4ec,dbd923eb,PPO
+cdabed66,2c5ef638,Porter and Sons,907678eb-561,7abaa7cd,Medicare
+ce0d817d,d2e1bbe9,"Hart, Bennett and Randolph",b8870b43-bef,36cfaf08,PPO
+ce6ffd15,44345be0,Wright Group,5980b2f3-6d9,dc9ba7fb,Medicaid
+cea9e9f3,734a64e6,Wright Group,459427c2-ce1,1b3e7785,PPO
+cf0f3041,b5b42fb9,Martin Inc,da703c51-ee7,3b2dce5e,Medicare
+d01f7952,c3de2479,Martin Inc,6aa16d72-1c3,3c22686b,HMO
+d09471da,db86cf7f,"Hart, Bennett and Randolph",e79b9d3e-333,4bb647be,Medicaid
+d18bc635,09e35463,Porter and Sons,2024eaff-850,2c6a2291,Medicare
+d1c4d984,61fdd716,Martin Inc,5fffc753-b4e,f4970b46,Medicaid
+d1c68b7e,1846c1ef,Moon Group,34b11a41-f93,46b05900,PPO
+d278df7e,a36d858d,"Hart, Bennett and Randolph",40aea513-bdf,eda709eb,Medicare
+d2b7a590,0c9d0970,Martin Inc,a715679b-d0a,27740192,Medicaid
+d2be9d92,69a58be5,Martin Inc,66d44602-b84,304596f4,Medicaid
+d2d6bbab,bcd43434,Porter and Sons,defdc78b-c48,84760ec7,Medicare
+d31a0673,dd401f4a,Wright Group,3218d668-bd7,78dc27cb,PPO
+d3756e49,88f7bfc5,Wright Group,09b4b814-212,e6286714,Medicare
+d44d428f,33b93435,Porter and Sons,fd90d181-5f7,0ad05ecf,PPO
+d49290bb,a492d389,Porter and Sons,ee5bed12-bf9,d745af7f,Medicaid
+d606f620,15c50561,Porter and Sons,fd1305d2-2d8,d6e2311b,Medicare
+d629e5bf,8d1d0ae8,Porter and Sons,c3997b57-d55,be0761fb,Medicaid
+d695f9a5,576d668a,"Hart, Bennett and Randolph",bb1d67e5-3d0,86080153,HMO
+d6c3f71d,c13b181e,Moon Group,8a8188fb-8d4,398a4d31,HMO
+d82bc1f3,1d81dd10,Moon Group,27c082e8-65c,ad1444c7,Medicaid
+d83a6eaf,10d4ffee,Martin Inc,2b39a526-8ab,dca3703f,PPO
+d8d5e26b,b3641f37,Porter and Sons,005555fc-092,34ef8c92,Medicaid
+d9767a28,340f5917,Moon Group,5660bb63-dc0,da23db3e,HMO
+d9a3d6b2,3309de0c,Wright Group,f3d3cd37-eb1,6509b20e,Medicaid
+d9f581d6,3c1de7b1,"Hart, Bennett and Randolph",9a9c3b80-a95,4274d600,Medicaid
+da274093,97aef766,"Hart, Bennett and Randolph",b4e0ac05-969,174d90e3,Medicare
+db33f844,14c4ace8,Martin Inc,19edfbce-c36,57a02bcd,HMO
+dbf12dc7,75417159,Moon Group,538820fb-3e5,75d48677,Medicaid
+dc128d88,262757f0,"Hart, Bennett and Randolph",1cded695-6ba,322b050f,HMO
+dcba167b,ccd10b4e,Martin Inc,3429a822-8ba,267c8bda,PPO
+dccb59e6,83f3f944,Wright Group,2c57e14a-ce0,4fefd2e0,PPO
+dded1e07,7a98944f,"Hart, Bennett and Randolph",b9d941e7-392,6d97bbe2,HMO
+de7cb055,66abbcb2,Martin Inc,61a38100-e57,a8db1a5f,PPO
+dedd77d8,f7a8ff74,Moon Group,d53b21a0-5d4,ee5339a1,Medicare
+dfaa4604,20369310,Martin Inc,d88962a1-c84,da033dde,Medicaid
+dfe15de4,6acf7aa3,Porter and Sons,8465978d-9c2,cfbf06f5,Medicare
+e08e4600,a10bcf2d,Martin Inc,8dc17477-40d,33c04bf5,PPO
+e0b8b093,eba0959f,Martin Inc,d5b603b5-fe0,c1eedaf8,Medicaid
+e1b725b8,60513033,"Hart, Bennett and Randolph",42070874-427,7088aed2,Medicare
+e239a382,94a5d402,"Hart, Bennett and Randolph",5109f781-de8,7b64888b,Medicaid
+e23dc099,c071fdce,Wright Group,ba631210-018,0cf90a1d,Medicaid
+e2d8641c,1786820b,Wright Group,be274540-4ff,b3f65e0b,Medicare
+e2eefa4e,dc92c467,Moon Group,f40a8bbb-8fe,1679475e,HMO
+e4c17841,5efaf58d,"Hart, Bennett and Randolph",d59d364e-987,7ca756fe,HMO
+e5806e22,d47c8160,Martin Inc,3bacbd4b-200,62f75500,Medicaid
+e5ba89e9,2ea61d4a,Moon Group,1c76be50-c80,d3a55fa5,Medicaid
+e7302bed,740b2a51,"Hart, Bennett and Randolph",2a1554fd-7c9,2fa9c9ca,HMO
+e76325aa,f8a7e00a,"Hart, Bennett and Randolph",1e332807-cfa,544bbd6b,PPO
+e7a607e8,3aa15ed7,Martin Inc,b1fd109a-e57,cf4e61f8,Medicare
+e8061073,069596c0,"Hart, Bennett and Randolph",3336425f-7fc,1ea910fb,HMO
+e819d67a,6329da4e,Wright Group,4d644b93-7dd,4bff6e04,Medicaid
+e85ee793,aa009085,Wright Group,0b62a10b-88c,6687f8b8,Medicare
+eb13e1d2,a3c14f49,"Hart, Bennett and Randolph",ebd939e3-cb0,8d484af1,PPO
+eb48c8ac,bb4acc4d,"Hart, Bennett and Randolph",f7aabd6d-aa2,0a6a4bca,Medicare
+ebf242a5,81fe40a1,Porter and Sons,a3a92347-b5b,c61c7ba3,PPO
+ebf812f8,0f339aed,"Hart, Bennett and Randolph",c350e967-741,32509481,HMO
+ec8be489,c7f966e3,Martin Inc,f960d96a-d40,dd24460e,Medicare
+ee7e0dde,df2639a8,"Hart, Bennett and Randolph",e9a1b4f0-071,dfc7014e,PPO
+ee9293be,630128ef,"Hart, Bennett and Randolph",14122c86-79a,cd13216d,Medicare
+eeb1057b,4023bf61,"Hart, Bennett and Randolph",950bd8db-b2a,8362b235,HMO
+ef23b249,d167660d,Wright Group,934d2ed7-b9f,a8e889c9,HMO
+ef75d626,0649fa80,Porter and Sons,bb99197b-065,ceaa3e71,Medicare
+efb209b8,7dae482d,Moon Group,a353d401-9f9,ee8d6ed1,PPO
+f01b9ea5,8160ba52,Moon Group,b1d35640-aaf,689d6c3a,Medicaid
+f0698add,1f725d39,Moon Group,28c5963c-200,4d1c675c,Medicare
+f0be973c,c496365d,"Hart, Bennett and Randolph",fefb1b0f-900,1bb62a81,Medicaid
+f0f649c6,39808646,Wright Group,99051d81-e61,bd89c4ea,Medicaid
+f0fa56f2,07d65141,"Hart, Bennett and Randolph",84d8a8ea-3f6,2db76fe8,PPO
+f10dd6ff,c2afed92,Martin Inc,579ae353-59b,3a047fc3,HMO
+f1a003ec,b439a6a8,Porter and Sons,45eec58a-e90,c46e0d6d,Medicare
+f2209f56,7ad5e35a,Martin Inc,496ef266-473,a4a03212,HMO
+f2ae2d94,c216c1f3,Martin Inc,e34b4957-c75,fbedddce,HMO
+f3542022,6b4c1754,Porter and Sons,0c08a10c-9af,2f34caa3,HMO
+f38c290a,a8862b3b,"Hart, Bennett and Randolph",ce1b4ebb-ccf,29ac8a88,Medicare
+f5fd20a6,cf80a38b,Wright Group,6a9ec9ba-a37,6d39b6a0,PPO
+f7dd0fb5,8a6ecf1c,Martin Inc,75009cb4-b91,01667103,PPO
+f90ea01d,215dc081,Wright Group,d8a49edb-472,be4140ad,PPO
+f93ba8f5,2458d466,"Hart, Bennett and Randolph",b6db0164-7e5,f71eeb4b,HMO
+fa1963ce,7af7888d,Wright Group,d72be517-23a,ace7e1c7,HMO
+fa2ca127,74aba408,Wright Group,1ad8c30e-e03,413ad6cb,HMO
+fa7a32ea,aa867d64,"Hart, Bennett and Randolph",41537121-27a,80036cd6,PPO
+fa7d4ffa,7cbd6ce4,Porter and Sons,799dff74-f1a,6c6b4a3c,PPO
+fb2d509f,393f166c,Martin Inc,7e61f707-702,c5f1484d,HMO
+fb2f5f29,d1b537a8,Martin Inc,48299a06-d05,33312e19,Medicare
+fc6ea376,b68e4113,Wright Group,14cb87c3-0fa,919942ba,PPO
+fef82a6c,fed0fad5,Moon Group,5c2cde4e-a49,93afe019,PPO
+ff501c75,95a08ab1,Martin Inc,e16a8a3c-1fb,41752a0e,Medicare
+ff7c459e,58de828f,Moon Group,5869af6c-d32,14c77a7b,PPO
+ffa2e7d2,ae327f16,"Hart, Bennett and Randolph",a5ef1c83-68b,61b0129a,Medicaid
+ffc5b563,aab2e3b1,Wright Group,69dae98d-613,8a6b2340,PPO
+ffeabc14,aa4a3644,Wright Group,80935816-97d,adb02804,Medicare
