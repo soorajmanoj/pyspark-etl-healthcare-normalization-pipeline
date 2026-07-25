@@ -35,7 +35,7 @@ Transform flat healthcare records (CSV format) into well-defined dimension and f
 
 ## Schema (ERD)
 
-This is a genuine **snowflake** schema, not a star schema wearing the name: two dimensions are normalized a level further rather than flattened directly onto the fact table. `DimInsurance` carries a `patient_id` back to `DimPatient`, and `DimBilling` carries an `insurance_id` back to `DimInsurance` — so `FactVisit → DimBilling → DimInsurance → DimPatient` is a real two-hop chain, not a flat star.
+This is a **snowflake** schema: two dimensions are normalized a level further rather than flattened directly onto the fact table. `DimInsurance` carries a `patient_id` back to `DimPatient`, and `DimBilling` carries an `insurance_id` back to `DimInsurance` — so `FactVisit → DimBilling → DimInsurance → DimPatient` is a real two-hop chain, not a flat star.
 
 ```mermaid
 erDiagram
