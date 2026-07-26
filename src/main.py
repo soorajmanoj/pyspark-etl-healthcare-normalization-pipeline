@@ -1,3 +1,5 @@
+import argparse
+
 from pyspark.sql import SparkSession
 from data_processor import DataProcessor
 
@@ -7,76 +9,73 @@ def create_spark_session():
     return spark
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Healthcare ETL pipeline")
+    parser.add_argument(
+        "--output-format",
+        choices=["csv", "parquet", "both"],
+        default="csv",
+        help="Output format for dimension/fact tables (default: csv)",
+    )
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
     spark = create_spark_session()
     data_processor = DataProcessor(spark)
     df = data_processor.read_data("data/legacy_healthcare_data.csv")
     print("Legacy Healthcare Dataset")
     df.printSchema()
 
+    def save_table(table_df, name):
+        """Writes a table as CSV, Parquet, or both, per --output-format."""
+        table_df.printSchema()
+        table_df.show()
+        if args.output_format in ("csv", "both"):
+            data_processor.save_to_csv(table_df, "data/output", f"{name}.csv")
+        if args.output_format in ("parquet", "both"):
+            data_processor.save_to_parquet(table_df, "data/output_parquet", name)
+
     print("DimPatient:")
     DimPatient = data_processor.generate_dim_patient(df)
-    DimPatient.printSchema()
-    DimPatient.show()
-    data_processor.save_to_csv(DimPatient, "data/output", "DimPatient.csv")
+    save_table(DimPatient, "DimPatient")
 
     print("DimInsurance:")
     DimInsurance = data_processor.generate_dim_insurance(df)
-    DimInsurance.printSchema()
-    DimInsurance.show()
-    data_processor.save_to_csv(DimInsurance, "data/output", "DimInsurance.csv")
+    save_table(DimInsurance, "DimInsurance")
 
     print("DimBilling:")
     DimBilling = data_processor.generate_dim_billing(df)
-    DimBilling.printSchema()
-    DimBilling.show()
-    data_processor.save_to_csv(DimBilling, "data/output", "DimBilling.csv")
+    save_table(DimBilling, "DimBilling")
 
     print("DimProvider:")
     DimProvider = data_processor.generate_dim_provider(df)
-    DimProvider.printSchema()
-    DimProvider.show()
-    data_processor.save_to_csv(DimProvider, "data/output", "DimProvider.csv")
+    save_table(DimProvider, "DimProvider")
 
     print("DimLocation:")
     DimLocation = data_processor.generate_dim_location(df)
-    DimLocation.printSchema()
-    DimLocation.show()
-    data_processor.save_to_csv(DimLocation, "data/output", "DimLocation.csv")
+    save_table(DimLocation, "DimLocation")
 
     print("DimPrimaryDiagnosis:")
     DimPrimaryDiagnosis = data_processor.generate_dim_primary_diagnosis(df)
-    DimPrimaryDiagnosis.printSchema()
-    DimPrimaryDiagnosis.show()
-    data_processor.save_to_csv(
-        DimPrimaryDiagnosis, "data/output", "DimPrimaryDiagnosis.csv"
-    )
+    save_table(DimPrimaryDiagnosis, "DimPrimaryDiagnosis")
 
     print("DimSecondaryDiagnosis:")
     DimSecondaryDiagnosis = data_processor.generate_dim_secondary_diagnosis(df)
-    DimSecondaryDiagnosis.printSchema()
-    DimSecondaryDiagnosis.show()
-    data_processor.save_to_csv(
-        DimSecondaryDiagnosis, "data/output", "DimSecondaryDiagnosis.csv"
-    )
+    save_table(DimSecondaryDiagnosis, "DimSecondaryDiagnosis")
 
     print("DimTreatment:")
     DimTreatment = data_processor.generate_dim_treatment(df)
-    DimTreatment.printSchema()
-    DimTreatment.show()
-    data_processor.save_to_csv(DimTreatment, "data/output", "DimTreatment.csv")
+    save_table(DimTreatment, "DimTreatment")
 
     print("DimPrescription:")
     DimPrescription = data_processor.generate_dim_prescription(df)
-    DimPrescription.printSchema()
-    DimPrescription.show()
-    data_processor.save_to_csv(DimPrescription, "data/output", "DimPrescription.csv")
+    save_table(DimPrescription, "DimPrescription")
 
     print("DimLabOrder:")
     DimLabOrder = data_processor.generate_dim_lab_order(df)
-    DimLabOrder.printSchema()
-    DimLabOrder.show()
-    data_processor.save_to_csv(DimLabOrder, "data/output", "DimLabOrder.csv")
+    save_table(DimLabOrder, "DimLabOrder")
 
     print("FactVisit:")
     FactVisit = data_processor.generate_fact_visit(
@@ -89,9 +88,7 @@ def main():
         DimPrescription,
         DimLabOrder,
     )
-    FactVisit.printSchema()
-    FactVisit.show()
-    data_processor.save_to_csv(FactVisit, "data/output", "FactVisit.csv")
+    save_table(FactVisit, "FactVisit")
 
     # Foreign Key Integrity Checks
     data_processor.foreign_key_check(

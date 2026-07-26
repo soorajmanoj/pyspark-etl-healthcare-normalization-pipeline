@@ -59,6 +59,25 @@ class DataProcessor:
         # Clean up - remove the temporary directory
         shutil.rmtree(temp_dir)
 
+    def save_to_parquet(self, df: DataFrame, output_path: str, dirname: str) -> None:
+        """
+        Save DataFrame to Parquet format.
+
+        Unlike save_to_csv, this does not coalesce to a single file first —
+        multiple part files inside a Parquet "directory" is the normal,
+        expected layout for a columnar warehouse format, not something to
+        collapse away. Real data warehouses (Redshift Spectrum, Athena,
+        Snowflake external tables, Delta Lake, etc.) read Parquet directories
+        of many part files directly.
+
+        :param df: DataFrame to save
+        :param output_path: Base directory path
+        :param dirname: Name of the output Parquet directory
+        """
+        full_path = os.path.join(output_path, dirname)
+        print(f"Saving Parquet to: {full_path}")
+        df.write.mode("overwrite").parquet(full_path)
+
     def generate_dim_patient(self, df):
         last_visit_df = df.groupBy("patient_id").agg(
             spark_max("visit_datetime").alias("last_visit")
