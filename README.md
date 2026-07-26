@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+[![CI](https://github.com/soorajmanoj/pyspark-etl-healthcare-normalization-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/soorajmanoj/pyspark-etl-healthcare-normalization-pipeline/actions/workflows/ci.yml)
 
 # Healthcare Data Normalization with PySpark
 
@@ -35,7 +36,7 @@ Transform flat healthcare records (CSV format) into well-defined dimension and f
 
 ## Schema (ERD)
 
-This is a **snowflake** schema: two dimensions are normalized a level further rather than flattened directly onto the fact table. `DimInsurance` carries a `patient_id` back to `DimPatient`, and `DimBilling` carries an `insurance_id` back to `DimInsurance` — so `FactVisit → DimBilling → DimInsurance → DimPatient` is a real two-hop chain, not a flat star.
+This is a genuine **snowflake** schema, not a star schema wearing the name: two dimensions are normalized a level further rather than flattened directly onto the fact table. `DimInsurance` carries a `patient_id` back to `DimPatient`, and `DimBilling` carries an `insurance_id` back to `DimInsurance` — so `FactVisit → DimBilling → DimInsurance → DimPatient` is a real two-hop chain, not a flat star.
 
 ```mermaid
 erDiagram
@@ -198,17 +199,26 @@ Notice `FactVisit` stores `139` and `0` for provider and location, not the docto
 
 ```
 pyspark-etl-healthcare-normalization-pipeline/
+├── .github/
+│   └── workflows/
+│       └── ci.yml                         # Runs pytest on every push/PR
 ├── data/
 │   ├── legacy_healthcare_data.csv         # Input dataset
-│   └── output/                            # Output folder for dimension and fact CSVs
+│   ├── output/                            # CSV output for dimension and fact tables
+│   └── output_parquet/                    # Parquet output (with --output-format parquet/both)
 ├── src/
-│   ├── main.py                            # Driver script
-│   └── data_processor.py                  # Data normalization and FK check logic
+│   ├── main.py                            # Driver script (supports --output-format csv|parquet|both)
+│   └── data_processor.py                  # Data normalization, FK check, and save logic
+├── tests/
+│   ├── conftest.py                        # Shared local SparkSession fixture
+│   └── test_data_processor.py             # Tests for dedup, status logic, and FK checks
 ├── tableau/
 │   ├── Legacy Healthcare.twb              # Tableau workbook
 │   └── tableau_screenshots/
 │           └── Dashboard.png              # Tableau dashboard image
 ├── requirements.txt
+├── requirements-dev.txt                   # pytest (not needed to just run the pipeline)
+├── pytest.ini
 └── README.md
 ```
 
@@ -239,6 +249,13 @@ pip install -r requirements.txt
 
 ```bash
 python src/main.py
+```
+
+This defaults to CSV output (matching the original behavior). To also or instead write Parquet — the columnar format real data warehouses actually use, unlike CSV:
+
+```bash
+python src/main.py --output-format parquet   # Parquet only, written to data/output_parquet/
+python src/main.py --output-format both      # both CSV and Parquet
 ```
 
 This script will:
@@ -287,6 +304,17 @@ Tableau was used to create the following visualizations based on the normalized 
 ![Dashboard Preview](https://github.com/soorajmanoj/pyspark-etl-healthcare-normalization-pipeline/raw/main/tableau/tableau_screenshots/Dashboard.png)
 
 ---
+
+## Testing
+
+```bash
+pip install -r requirements.txt -r requirements-dev.txt
+pytest -v
+```
+
+Tests exercise the real transformation logic against small in-memory sample data — patient dedup and Active/Inactive status derivation, the `DimInsurance → DimPatient` foreign key surviving the join, provider surrogate key assignment, and the foreign-key-check function itself (pass case, mismatch detection, and expected-null handling). Every push and pull request to `main` runs this suite automatically via GitHub Actions.
+
+**Honesty note:** these tests are written against the real PySpark and pytest APIs, but weren't executed in the environment they were authored in (no local Spark/Java available there) — the first real confirmation is the CI badge above going green after you push.
 
 ## License
 
