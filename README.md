@@ -218,7 +218,6 @@ pyspark-etl-healthcare-normalization-pipeline/
 │           └── Dashboard.png              # Tableau dashboard image
 ├── requirements.txt
 ├── requirements-dev.txt                   # pytest (not needed to just run the pipeline)
-├── pytest.ini
 └── README.md
 ```
 
@@ -314,7 +313,7 @@ pytest -v
 
 Tests exercise the real transformation logic against small in-memory sample data — patient dedup and Active/Inactive status derivation, the `DimInsurance → DimPatient` foreign key surviving the join, provider surrogate key assignment, and the foreign-key-check function itself (pass case, mismatch detection, and expected-null handling). Every push and pull request to `main` runs this suite automatically via GitHub Actions.
 
-**Honesty note:** these tests are written against the real PySpark and pytest APIs, but weren't executed in the environment they were authored in (no local Spark/Java available there) — the first real confirmation is the CI badge above going green after you push.
+**Honesty note:** these tests were originally written against the real PySpark and pytest APIs without being executed locally (no Spark/Java available in that environment) — they've since been confirmed passing in GitHub Actions (CI badge above), which is the real verification.
 
 ## License
 
